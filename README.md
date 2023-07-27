@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkapoor18&label=Profile%20views&color=0e75b6&style=flat" alt="jkapoor18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkapoor18" alt="jkapoor18" /></a> </p>
-
 - 🌱 I’m currently learning **and exploring deep learning algorithms and trying to build some reliable models.**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects**
